@@ -4,30 +4,23 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
 ## Table of Contents
 
-1. [Binary Search](#binary-search)
+## Searching Algorithms
 
-## Binary Search
+   + Binary Search
 
-Binary search is a fundamental algorithm used to efficiently locate a target value within a sorted array. This section provides an overview of the binary search program in C++.
-
-### Purpose
-
-The binary search program demonstrates the implementation of the binary search algorithm in C++. It allows you to efficiently find a target value in a sorted array.
 
 ### How to Use
-
-To use the binary search program:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/hamzamalik22/DSA-Cpp.git
+    git clone https://github.com/hamzamalik22/Data-Structures-Algorithm-Cpp.git
     ```
 
 2. Navigate to the repository:
 
     ```bash
-    cd DSA-Cpp
+    cd Data-Structures-Algorithm-Cpp
     ```
 
 3. Compile and run the program:
