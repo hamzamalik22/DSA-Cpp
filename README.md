@@ -6,6 +6,8 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
 ## Searching Algorithms
 
+   + Linear Search
+
    + Binary Search
 
 
