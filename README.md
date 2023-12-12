@@ -10,6 +10,10 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
    + Binary Search
 
+## Sorting Algorithms
+
+   + Bubble Sort
+
 
 ### How to Use
 
