@@ -14,6 +14,8 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
    + Bubble Sort
 
+   + Selection Sort
+
 
 ### How to Use
 
