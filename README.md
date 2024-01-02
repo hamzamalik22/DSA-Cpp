@@ -16,6 +16,8 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
    + Selection Sort
 
+   + Insertion Sort
+
 
 ### How to Use
 
