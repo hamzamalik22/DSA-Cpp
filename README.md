@@ -22,6 +22,9 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
    + Quick Sort
 
+## Dynamic Arrays
+
+   + Dynamic Array
 
 ### How to Use
 
