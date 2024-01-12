@@ -25,6 +25,9 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 ## Dynamic Arrays
 
    + Dynamic Array
+   
+   + Insertion in Dynamic Array
+
 
 ### How to Use
 
