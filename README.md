@@ -28,6 +28,8 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
    
    + Insertion in Dynamic Array
 
+   + Deletion in Dynamic Array
+
 
 ### How to Use
 
