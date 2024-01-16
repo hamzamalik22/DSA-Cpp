@@ -30,6 +30,9 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
    + Deletion in Dynamic Array
 
+## Linked List
+
+   + Single Linked List
 
 ### How to Use
 
