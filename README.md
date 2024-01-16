@@ -34,6 +34,8 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
    + Single Linked List
 
+   + Circular Linked List
+
 ### How to Use
 
 1. Clone the repository:
