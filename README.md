@@ -38,6 +38,10 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
    + Doubly Linked List
 
+## Stack
+
+   + Stack using Array
+
 ### How to Use
 
 1. Clone the repository:
