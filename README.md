@@ -44,6 +44,10 @@ Welcome to the "Data-Structures-Algorithm-Cpp" repository! This repository conta
 
    + Stack using LinkedList
 
+## Queue
+
+   + Queue using Array
+
 ### How to Use
 
 1. Clone the repository:
